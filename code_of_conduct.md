@@ -7,13 +7,13 @@ To make clear what is expected, all attendees, organizers, volunteers, and spons
 The Short Version
 -----------------
 
-RailsBridge is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+RailsBridge is dedicated to providing a harassment-free workshop experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of workshop participants in any form.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
+All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any workshop venue, including talks.
 
 Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for RailsBridge.
 
-Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
+Attendees violating these rules may be asked to leave the workshop without a refund at the sole discretion of the workshop organizers.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
@@ -26,7 +26,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for RailsBridge.
 
-If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.
+If a participant engages in behavior that violates this code of conduct, the workshop organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
 Contact Information
 -------------------
