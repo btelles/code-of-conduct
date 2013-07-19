@@ -15,7 +15,7 @@ Be kind to others. Do not insult or put down other attendees. Behave professiona
 
 Attendees violating these rules may be asked to leave the workshop at the sole discretion of the workshop organizers.
 
-Thank you for helping make this a welcoming, friendly event for all.
+Thank you for helping make this a welcoming and friendly event for all.
 
 The Longer Version
 ------------------
