@@ -13,7 +13,7 @@ All communication should be appropriate for a professional audience including pe
 
 Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for RailsBridge.
 
-Attendees violating these rules may be asked to leave the workshop without a refund at the sole discretion of the workshop organizers.
+Attendees violating these rules may be asked to leave the workshop at the sole discretion of the workshop organizers.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
